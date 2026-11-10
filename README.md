@@ -10,12 +10,11 @@
 <tr>
 <td valign="top" width="55%">
 
-I'm a full-stack and ML engineer who likes owning a product end to end: **React and Node** on the front, **FastAPI and PyTorch** behind it, and the **optimisation or real-time layer** that makes it hold together.
+I'm a full-stack and ML engineer who builds products end to end: **React and Node** on the front, **FastAPI and PyTorch** behind it, and the **optimisation or real-time layer** that makes it hold together.
 
-My work spans a live emergency-blood coordination platform, a GNSS-denied navigation stack, and an exact solver for storage tiering.
+I take on **freelance work regularly**, designing and building **web applications around what each client needs**, from the first requirement to a deployed product, alongside content and design work. My own builds include a live emergency-blood coordination platform, a GNSS-denied navigation stack, and an exact solver for storage tiering.
 
 Away from the terminal, I write and perform **English poetry** on inter-college stages and help run **Word's Worth**, a literature and communication club. Music and Rubik's cubes fill the gaps.
-
 </td>
 <td align="center" valign="top" width="45%">
   <img src="./about.svg" width="100%" alt="Animated system map with a training-loss curve, plus a small solving cube, equalizer and rotating poetry quotes"/>
